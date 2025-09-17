@@ -16,5 +16,5 @@ paths:
   template_path: D:/Migration/Template File
   visualoutput_path: D:/Migration/VisualsExtractorOutput
 report:
-  name: CustomerAnalysis Simple
+  name: CustomerAnalysis Simple Log 1
   type: Tableau
