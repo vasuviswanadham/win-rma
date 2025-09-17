@@ -1,0 +1,20 @@
+ai:
+  agent_id: asst_0FvFDOeU1Fldzc7sRLwJdktn
+  agent_id_stage1: asst_mY54SDHKm0Kf1kfS9hvGg4Sp
+  agent_id_stage2: asst_utIvCLFwDH8eiMVQRR6I12SZ
+  project_endpoint: https://accelatoraifoundry.services.ai.azure.com/api/projects/firstProject
+options:
+  run_stage1: true
+  run_stage2: true
+  run_stage3: true
+paths:
+  input_path: D:/Migration/Input/
+  log_path: D:/Migration/Logs
+  metadata_path: D:/Migration/Metadata
+  output_path: D:/Migration/Output
+  template_folder: D:/Migration/PBIP_JSON_Visuals_Output
+  template_path: D:/Migration/Template File
+  visualoutput_path: D:/Migration/VisualsExtractorOutput
+report:
+  name: CustomerAnalysis Simple
+  type: Tableau
