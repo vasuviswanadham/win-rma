@@ -1,0 +1,7 @@
+PyYAML
+pandas
+azure-ai-projects
+azure-identity
+transformers
+Flask
+gunicorn
